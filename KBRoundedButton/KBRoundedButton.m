@@ -84,7 +84,6 @@
     
     self.layer.cornerRadius = self.frame.size.height/2;
     self.clipsToBounds = YES;
-    self.tintColor = [UIColor clearColor];
 }
 
 #pragma mark - Shadow
